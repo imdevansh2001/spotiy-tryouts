@@ -1,0 +1,276 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+.mynavbar {
+  background-color: black;
+}
+.side {
+  padding-left: 60rem;
+}
+.sidetwo {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.fa-spotify {
+  font-size: 2.5rem;
+  margin-left: 8rem;
+}
+.sidetwo:hover {
+  color: white;
+}
+.d {
+  color: white;
+  font-weight: bold;
+}
+.d:hover {
+  color: rgb(28, 204, 91);
+}
+.dn {
+  color: white;
+  font-weight: bold;
+  padding-right: 2rem;
+}
+.dn:hover {
+  color: rgb(28, 204, 91);
+}
+
+.su {
+  color: gainsboro;
+  font-weight: bold;
+}
+.su:hover {
+  color: rgb(28, 204, 91);
+}
+.ln {
+  color: gainsboro;
+  font-weight: bold;
+  margin-right: 10rem;
+}
+.ln:hover {
+  color: rgb(28, 204, 91);
+}
+
+.bi-list {
+  color: white;
+  font-size: 2rem;
+}
+
+/*media queries for phone*/
+
+@media (max-width: 576px) {
+  .fa-spotify {
+    margin-left: 0rem;
+  }
+}
+
+/*for tablets*/
+
+/*media queries for phone*/
+@media (max-width: 768px) {
+  .fa-spotify {
+    margin-left: 0rem;
+  }
+}
+
+/* navbar ends*/
+
+.whyspotify {
+  color: black;
+  margin-top: 3rem;
+  font-weight: 900;
+  font-family: sans-serif;
+  margin-bottom: 2rem;
+}
+
+/*  icons*/
+
+.bi-heart {
+  font-size: 7rem;
+  border: 0.1rem solid white;
+  border-radius: 10%;
+  color: white;
+  box-shadow: 8px 10px 8px #000000d0;
+  background-image: linear-gradient(
+    to bottom,
+    rgb(242, 62, 5),
+    rgb(231, 25, 109)
+  );
+}
+
+.bi-music-note-beamed {
+  font-size: 7rem;
+  border: 0.1rem solid white;
+  border-radius: 10%;
+  color: white;
+  box-shadow: 8px 10px 8px #000000d0;
+  background-image: linear-gradient(
+    to bottom,
+    rgb(242, 62, 5),
+    rgb(231, 25, 109)
+  );
+}
+
+.bi-play-circle {
+  font-size: 7rem;
+  border: 0.1rem solid white;
+  border-radius: 10%;
+  color: white;
+  box-shadow: 8px 10px 8px #000000d0;
+  background-image: linear-gradient(
+    to bottom,
+    rgb(242, 62, 5),
+    rgb(231, 25, 109)
+  );
+}
+
+.bi-lightning-charge {
+  font-size: 7rem;
+  border: 0.1rem solid white;
+  border-radius: 10%;
+  color: white;
+  box-shadow: 8px 10px 8px #000000d0;
+  background-image: linear-gradient(
+    to bottom,
+    rgb(242, 62, 5),
+    rgb(231, 25, 109)
+  );
+}
+h5 {
+  color: black;
+  font-weight: bold;
+}
+
+.free {
+  font-size: 3.5rem;
+  font-weight: bolder;
+  color: white;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.freebg {
+  background-image: linear-gradient(
+    to bottom,
+    rgb(242, 62, 5),
+    rgb(231, 25, 109)
+  );
+}
+
+.ques {
+  color: black;
+}
+
+.ques:hover {
+  border-bottom: 0.1rem solid black;
+}
+
+.create {
+  color: rgb(10, 151, 57);
+  font-weight: bold;
+}
+
+.q {
+  background-color: gainsboro;
+  color: white;
+}
+
+.why-spotify {
+  color: black;
+  margin-top: 5rem;
+  font-weight: 900;
+  font-family: sans-serif;
+}
+
+.bttn {
+  background-color: white;
+  color: black;
+  border-radius: 2rem;
+  font-size: 1.2rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  font-weight: bold;
+  margin-bottom: 5rem;
+  box-shadow: 12px 8px 10px #000000a8;
+}
+
+.fa-spotify {
+  font-size: 3rem;
+}
+
+.lst {
+  background-color: rgb(0, 0, 0);
+}
+
+.fa-spotify {
+  color: white;
+}
+
+.extt {
+  padding-left: 7rem;
+}
+
+.cmp {
+  color: rgb(167, 167, 167);
+}
+
+.wrds {
+  color: white;
+}
+.wrds:hover {
+  color: rgb(10, 151, 57);
+}
+
+.fa-instagram {
+  font-size: 2rem;
+  color: white;
+}
+
+.fa-instagram:hover {
+  color: rgb(10, 151, 57);
+}
+
+.fa-twitter {
+  font-size: 2rem;
+  color: white;
+}
+
+.fa-twitter:hover {
+  color: rgb(10, 151, 57);
+}
+
+.fa-facebook {
+  font-size: 2rem;
+  color: white;
+}
+
+.fa-facebook:hover {
+  color: rgb(10, 151, 57);
+}
+
+.last-section {
+  background-color: rgb(0, 0, 0);
+}
+
+span {
+  color: gainsboro;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+span:hover {
+  color: rgb(6, 204, 72);
+}
+
+h6 {
+  color: gainsboro;
+}
+
+.fa-globe-americas {
+  color: gainsboro;
+}
+
+.fa-copyright {
+  color: gainsboro;
+}
